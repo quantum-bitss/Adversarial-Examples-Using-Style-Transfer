@@ -1,6 +1,7 @@
 # Adversarial Examples Using Style Transfer
 
-An little exercise project for paper "Adversarial Camouflage: Hiding Physical World Attacks with Natural Styles" (CVPR 2020), with PyTorch implementation.
+A small exercise project for paper "Adversarial Camouflage: Hiding Physical World Attacks with Natural Styles" (CVPR 2020), with PyTorch implementation. The images used in this project are directly taken from [AdvCam-Hide-Adv-with-Natural-Styles
+](https://github.com/RjDuan/AdvCam-Hide-Adv-with-Natural-Styles/).
 
 - Step 1: Open the  imagenet directory and store all the content, style (along with their corresponding masks) images into the corresponding folders. To match the content image with its style image and masks, please use the same file name (For example, use 1.png for the same group of content, style and masks).
 
